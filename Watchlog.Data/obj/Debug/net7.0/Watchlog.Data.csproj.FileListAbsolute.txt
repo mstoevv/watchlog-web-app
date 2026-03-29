@@ -1,0 +1,17 @@
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\bin\Debug\net7.0\Watchlog.Data.deps.json
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\bin\Debug\net7.0\Watchlog.Data.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\bin\Debug\net7.0\Watchlog.Data.dll
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\bin\Debug\net7.0\Watchlog.Data.pdb
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\bin\Debug\net7.0\Watchlog.Models.dll
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\bin\Debug\net7.0\Watchlog.Models.pdb
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\obj\Debug\net7.0\Watchlog.Data.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\obj\Debug\net7.0\Watchlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\obj\Debug\net7.0\Watchlog.Data.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\obj\Debug\net7.0\Watchlog.Data.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\obj\Debug\net7.0\Watchlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\obj\Debug\net7.0\Watchlog.2E90D281.Up2Date
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\obj\Debug\net7.0\Watchlog.Data.dll
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\obj\Debug\net7.0\refint\Watchlog.Data.dll
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\obj\Debug\net7.0\Watchlog.Data.pdb
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\obj\Debug\net7.0\Watchlog.Data.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Data\obj\Debug\net7.0\ref\Watchlog.Data.dll

@@ -1,0 +1,12 @@
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Models\bin\Debug\net7.0\Watchlog.Models.deps.json
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Models\bin\Debug\net7.0\Watchlog.Models.dll
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Models\bin\Debug\net7.0\Watchlog.Models.pdb
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Models\obj\Debug\net7.0\Watchlog.Models.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Models\obj\Debug\net7.0\Watchlog.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Models\obj\Debug\net7.0\Watchlog.Models.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Models\obj\Debug\net7.0\Watchlog.Models.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Models\obj\Debug\net7.0\Watchlog.Models.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Models\obj\Debug\net7.0\Watchlog.Models.dll
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Models\obj\Debug\net7.0\refint\Watchlog.Models.dll
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Models\obj\Debug\net7.0\Watchlog.Models.pdb
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Models\obj\Debug\net7.0\ref\Watchlog.Models.dll

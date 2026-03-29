@@ -1,0 +1,17 @@
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\bin\Debug\net7.0\Watchlog.Business.deps.json
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\bin\Debug\net7.0\Watchlog.Business.dll
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\bin\Debug\net7.0\Watchlog.Business.pdb
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\bin\Debug\net7.0\Watchlog.Data.dll
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\bin\Debug\net7.0\Watchlog.Models.dll
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\bin\Debug\net7.0\Watchlog.Data.pdb
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\bin\Debug\net7.0\Watchlog.Models.pdb
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\obj\Debug\net7.0\Watchlog.Business.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\obj\Debug\net7.0\Watchlog.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\obj\Debug\net7.0\Watchlog.Business.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\obj\Debug\net7.0\Watchlog.Business.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\obj\Debug\net7.0\Watchlog.Business.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\obj\Debug\net7.0\Watchlog.B782D35C.Up2Date
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\obj\Debug\net7.0\Watchlog.Business.dll
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\obj\Debug\net7.0\refint\Watchlog.Business.dll
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\obj\Debug\net7.0\Watchlog.Business.pdb
+C:\Users\PC\OneDrive\Desktop\progamming\C#\WatchLog\WatchLog\Watchlog.Business\obj\Debug\net7.0\ref\Watchlog.Business.dll
